@@ -43,9 +43,3 @@ List of the highest-selling products with total sales values.
 
 2. Open the dashboard file (Power BI or Excel – add when available).
 3. Explore and filter the dashboard as needed.
-
-## Preview
-
-The dashboard preview is included as **preview\.jpg** in this repository.
-
----
