@@ -38,7 +38,7 @@ List of the highest-selling products with total sales values.
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sales-analysis-dashboard.git
+   git clone https://github.com/mohamed-soss/sales-analysis.git
    ````
 
 2. Open the dashboard file (Power BI or Excel – add when available).
